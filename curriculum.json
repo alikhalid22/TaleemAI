@@ -1,0 +1,248 @@
+{
+  "Federal Board": {
+    "9th Grade": {
+      "Physics": {
+        "Unit 1: Physical Quantities and Measurement": ["Introduction to Physics", "Physical Quantities", "International System of Units (SI Units)", "Prefixes", "Scientific Notation", "Measuring Instruments", "Mass Measuring Instruments", "Stopwatch", "Measuring Cylinder", "Significant Figures"],
+        "Unit 2: Kinematics": ["Rest and Motion", "Types of Motion", "Scalars and Vectors", "Terms associated with Motion", "Graphical Analysis of Motion", "Equations of Motion", "Motion of Freely Falling Bodies"],
+        "Unit 3: Dynamics": ["Force, Inertia and Momentum", "Newton's Laws of Motion", "Force and Momentum", "Law of Conservation of Momentum", "Friction", "Circular Motion", "Centripetal Force"],
+        "Unit 4: Turning Effect of Forces": ["Parallel Forces", "Addition of Forces", "Resolution of Forces", "Torque", "Principle of Moments", "Centre of Mass and Gravity", "Couple", "Equilibrium and its Conditions", "States of Equilibrium"],
+        "Unit 5: Gravitation": ["The Force of Gravitation", "Newton's Law of Universal Gravitation", "Gravitational Field", "Mass of the Earth", "Variation of 'g' with Altitude", "Artificial Satellites"],
+        "Unit 6: Work and Energy": ["Work", "Energy (Kinetic and Potential)", "Interconversion of Energy", "Major Sources of Energy", "Mass-Energy Equation", "Efficiency", "Power"],
+        "Unit 7: Properties of Matter": ["Kinetic Molecular Model", "States of Matter", "Density", "Pressure", "Atmospheric Pressure", "Pressure in Liquids", "Pascal's Principle", "Archimedes Principle", "Elasticity", "Stress, Strain, and Young's Modulus"],
+        "Unit 8: Thermal Properties of Matter": ["Temperature and Heat", "Thermometer", "Specific Heat Capacity", "Change of State (Latent Heat)", "Evaporation", "Thermal Expansion"],
+        "Unit 9: Transfer of Heat": ["Conduction", "Convection", "Radiation", "Greenhouse Effect"]
+      },
+      "Chemistry": {
+        "Chapter 1: Fundamentals of Chemistry": ["Branches of Chemistry", "Basic Definitions", "Chemical Formula", "Atomic, Molecular, and Formula Mass", "Chemical Species", "Avogadro's Number and Mole", "Chemical Calculations"],
+        "Chapter 2: Structure of Atoms": ["Theories of Atomic Structure", "Electronic Configuration", "Isotopes"],
+        "Chapter 3: Periodic Table and Periodicity": ["Periodic Table History", "Periodicity of Properties"],
+        "Chapter 4: Structure of Molecules": ["Chemical Bonds", "Types of Bonds", "Intermolecular Forces", "Bonding and Properties"],
+        "Chapter 5: Physical States of Matter": ["Gaseous State and Gas Laws", "Liquid State Properties", "Solid State Properties"],
+        "Chapter 6: Solutions": ["Solution and its Components", "Concentration of Solutions", "Solubility", "Solution vs. Suspension vs. Colloid"],
+        "Chapter 7: Electrochemistry": ["Oxidation and Reduction", "Electrochemical Cells", "Corrosion"],
+        "Chapter 8: Chemical Reactivity": ["Metals and Non-Metals", "Reactivity of Halogens"]
+      },
+      "Biology": {
+        "Chapter 1: Introduction to Biology": ["Branches of Biology", "Levels of Organization", "Muslim Scientists"],
+        "Chapter 2: Solving a Biological Problem": ["The Biological Method", "Data Organization and Analysis"],
+        "Chapter 3: Biodiversity": ["Importance of Biodiversity", "Classification Systems", "Binomial Nomenclature", "Conservation of Biodiversity"],
+        "Chapter 4: Cells and Tissues": ["Microscopy and Cell Theory", "Cellular Structures and Functions", "Prokaryotic vs. Eukaryotic Cells", "Plant and Animal Tissues"],
+        "Chapter 5: Cell Cycle": ["Mitosis and its Significance", "Meiosis and its Significance", "Apopotosis and Necrosis"],
+        "Chapter 6: Enzymes": ["Characteristics of Enzymes", "Mechanism of Enzyme Action", "Factors affecting Enzyme Action"],
+        "Chapter 7: Bioenergetics": ["Role of ATP", "Photosynthesis", "Respiration"],
+        "Chapter 8: Nutrition": ["Components of Human Food", "Balanced Diet", "Human Alimentary Canal", "Disorders of Gut"],
+        "Chapter 9: Transport": ["Transport in Plants", "Transport in Humans (Blood, Heart)", "Cardiovascular Disorders"]
+      },
+      "Computer Science": {
+        "Unit 1: Problem-Solving": ["Problem-Solving Steps", "Flowcharts", "Algorithms"],
+        "Unit 2: Binary System": ["Number Systems and Conversions", "Memory and Data Storage", "Boolean Algebra"],
+        "Unit 3: Networks": ["Types of Networks", "Network Topologies", "Communication Protocols (TCP/IP)"],
+        "Unit 4: Data and Privacy": ["Simple Encryption", "Cybercrime and Cybersecurity"],
+        "Unit 5: Designing Websites": ["Introduction to HTML", "Text Formatting", "Hyperlinks, Images, and Lists", "Tables in HTML"]
+      },
+      "Mathematics": {
+        "Unit 1: Matrices and Determinants": ["Introduction to Matrices", "Types and Operations", "Multiplicative Inverse", "Solving Linear Equations"],
+        "Unit 2: Real and Complex Numbers": ["Real Numbers and Properties", "Exponents and Radicals", "Complex Numbers"],
+        "Unit 3: Logarithms": ["Scientific Notation", "Laws of Logarithm", "Applications"],
+        "Unit 4: Algebraic Expressions": ["Algebraic Formulas", "Surds and Rationalization"],
+        "Unit 5: Factorization": ["Factorization Techniques", "Factor Theorem"],
+        "Unit 6: Algebraic Manipulation": ["H.C.F. and L.C.M.", "Operations on Algebraic Fractions"],
+        "Unit 7: Linear Equations and Inequalities": ["Linear Equations", "Absolute Value Equations", "Linear Inequalities"],
+        "Unit 8: Linear Graphs": ["Cartesian Plane", "Graphing Linear Equations"],
+        "Unit 9: Coordinate Geometry": ["Distance Formula", "Mid-Point Formula"],
+        "Unit 10-17: Geometry": ["Congruent Triangles Theorems", "Parallelograms and Triangles Theorems", "Bisector Theorems", "Triangle Side/Angle Theorems", "Ratio and Proportion Theorems", "Pythagoras' Theorem", "Area Theorems", "Practical Geometry"]
+      }
+    },
+    "10th Grade": {
+        "Physics": {
+            "Unit 10: Simple Harmonic Motion and Waves": ["Simple Harmonic Motion (SHM)", "Damped Oscillations", "Wave Motion and Types", "Ripple Tank"],
+            "Unit 11: Sound": ["Sound Waves and Characteristics", "Reflection (Echo)", "Speed of Sound", "Noise Pollution", "Ultrasound"],
+            "Unit 12: Geometrical Optics": ["Reflection and Spherical Mirrors", "Refraction and Lenses", "Total Internal Reflection", "Optical Instruments", "The Human Eye"],
+            "Unit 13: Electrostatics": ["Electric Charges and Induction", "Coulomb's Law", "Electric Field and Potential", "Capacitors"],
+            "Unit 14: Current Electricity": ["Electric Current and Ohm's Law", "Resistance and Resistors", "Electric Power", "DC and AC", "Electrical Safety"],
+            "Unit 15: Electromagnetism": ["Magnetic Effect of Current", "Force on a Conductor", "D.C. Motor", "Electromagnetic Induction", "A.C. Generator", "Transformer"],
+            "Unit 16: Basic Electronics": ["Thermionic Emission", "Analogue vs. Digital", "Logic Gates"],
+            "Unit 17: ICT": ["Components of CBIS", "Data Transmission", "Internet Basics"],
+            "Unit 18: Atomic and Nuclear Physics": ["Atom, Nucleus, and Isotopes", "Radioactivity and Half-Life", "Fission and Fusion"]
+        },
+        "Chemistry": {
+            "Chapter 9: Chemical Equilibrium": ["Reversible Reactions", "Law of Mass Action", "Equilibrium Constant"],
+            "Chapter 10: Acids, Bases and Salts": ["Concepts of Acids and Bases", "pH Scale", "Salts"],
+            "Chapter 11: Organic Chemistry": ["Introduction to Organic Compounds", "Functional Groups", "Alkanes"],
+            "Chapter 12: Hydrocarbons": ["Alkenes", "Alkynes", "Properties of Hydrocarbons"],
+            "Chapter 13: Biochemistry": ["Carbohydrates", "Proteins", "Lipids", "Vitamins"],
+            "Chapter 14: The Atmosphere": ["Layers of Atmosphere", "Pollutants and Acid Rain", "Ozone Depletion"],
+            "Chapter 15: Water": ["Properties of Water", "Hard and Soft Water", "Water Pollution"],
+            "Chapter 16: Chemical Industries": ["Metallurgy", "Solvay Process", "Urea Manufacturing", "Petroleum Industry"]
+        },
+        "Biology": {
+            "Chapter 10: Gaseous Exchange": ["Gaseous Exchange in Plants and Humans", "Mechanism of Breathing", "Respiratory Disorders"],
+            "Chapter 11: Homeostasis": ["Homeostasis in Plants and Humans", "The Urinary System", "Kidney Disorders"],
+            "Chapter 12: Coordination and Control": ["Nervous System", "Endocrine System", "Disorders of Nervous System"],
+            "Chapter 13: Support and Movement": ["Human Skeleton", "Joints", "Muscles and Movement"],
+            "Chapter 14: Reproduction": ["Asexual Reproduction", "Sexual Reproduction in Plants and Animals"],
+            "Chapter 15: Inheritance": ["Genetics Fundamentals", "Mendel's Laws of Inheritance"],
+            "Chapter 16: Man and His Environment": ["Ecosystem Components", "Biogeochemical Cycles", "Pollution"],
+            "Chapter 17: Biotechnology": ["Fermentation", "Genetic Engineering"],
+            "Chapter 18: Pharmacology": ["Medicinal and Addictive Drugs", "Antibiotics and Vaccines"]
+        },
+        "Computer Science": {
+            "Unit 1: Programming in C": ["Introduction to C Programming", "Structure of a C Program"],
+            "Unit 2: User Interaction": ["printf() and scanf() Functions"],
+            "Unit 3: Conditional Logic": ["if-else and switch Statements"],
+            "Unit 4: Data Structures": ["Arrays and Strings"],
+            "Unit 5: Loops": ["for, while, and do-while Loops"],
+            "Unit 6: Functions": ["User-defined Functions in C"]
+        },
+        "Mathematics": {
+            "Unit 1: Quadratic Equations": ["Solving Quadratic Equations", "Quadratic Formula"],
+            "Unit 2: Theory of Quadratic Equations": ["Nature of Roots", "Roots of Unity", "Synthetic Division"],
+            "Unit 3: Variations": ["Ratio, Proportions, and Variations"],
+            "Unit 4: Partial Fractions": ["Resolution into Partial Fractions"],
+            "Unit 5: Sets and Functions": ["Set Operations", "Functions and their Types"],
+            "Unit 6: Basic Statistics": ["Measures of Central Tendency", "Measures of Dispersion"],
+            "Unit 7: Introduction to Trigonometry": ["Trigonometric Ratios and Identities"],
+            "Unit 8-13: Geometry": ["Theorems of Circles, Chords, and Tangents", "Practical Geometry of Circles"]
+        }
+    },
+    "11th Grade": {
+      "Physics": {
+        "Chapter 1: Measurement": ["Errors and Uncertainties", "Significant Figures", "Dimensions of Physical Quantities"],
+        "Chapter 2: Vectors and Equilibrium": ["Vector Addition", "Dot and Cross Product", "Torque and Equilibrium"],
+        "Chapter 3: Motion and Force": ["Equations of Motion", "Conservation of Momentum", "Projectile Motion"],
+        "Chapter 4: Work and Energy": ["Work-Energy Principle", "Conservation of Energy", "Escape Velocity"],
+        "Chapter 5: Circular Motion": ["Angular Variables", "Centripetal Force", "Angular Momentum", "Artificial Satellites"],
+        "Chapter 6: Fluid Dynamics": ["Terminal Velocity", "Equation of Continuity", "Bernoulli's Equation"],
+        "Chapter 7: Oscillation": ["Simple Harmonic Motion (SHM)", "Energy in SHM", "Resonance"],
+        "Chapter 8: Waves": ["Progressive and Stationary Waves", "Speed of Sound", "Interference and Beats", "Doppler's Effect"],
+        "Chapter 9: Physical Optics": ["Interference of Light", "Diffraction of Light", "Polarization"],
+        "Chapter 10: Optical Instruments": ["Microscopes", "Telescopes", "Spectrometer", "Fibre Optics"],
+        "Chapter 11: Heat and Thermodynamics": ["Kinetic Theory of Gases", "First Law of Thermodynamics", "Heat Engines and Second Law"]
+      },
+      "Chemistry": {
+        "Chapter 1: Stoichiometry": ["Mole Concept", "Stoichiometric Calculations", "Limiting Reactant"],
+        "Chapter 2: Atomic Structure": ["Bohr's Model", "Quantum Numbers and Orbitals"],
+        "Chapter 3: Theories of Covalent Bonding": ["VBT and Hybridization", "VSEPR Theory", "MOT"],
+        "Chapter 4: Gases": ["Gas Laws", "Kinetic Molecular Theory", "Ideal and Non-ideal Gases"],
+        "Chapter 5: Liquids": ["Intermolecular Forces", "Properties of Liquids"],
+        "Chapter 6: Solids": ["Types of Solids", "Crystal Lattice"],
+        "Chapter 7: Chemical Equilibrium": ["Equilibrium Constant", "Le-Chatelier's Principle", "Haber's Process"],
+        "Chapter 8: Acids, Bases and Salts": ["Concepts of Acids and Bases", "pH, Ka, Kb", "Buffer Solutions", "Solubility Product"],
+        "Chapter 9: Chemical Kinetics": ["Rate and Order of Reaction", "Activation Energy", "Catalysis"],
+        "Chapter 10: Solutions and Colloids": ["Concentration Units", "Colligative Properties"],
+        "Chapter 11: Thermochemistry": ["Enthalpy", "Hess's Law", "Born-Haber Cycle"]
+      },
+      "Biology": {
+        "Chapter 1: The Cell": ["Cellular Organelles"],
+        "Chapter 2: Biological Molecules": ["Carbohydrates, Proteins, Lipids, Nucleic Acids"],
+        "Chapter 3: Enzymes": ["Mechanism and Factors Affecting Enzymes"],
+        "Chapter 4: Bioenergetics": ["Photosynthesis", "Cellular Respiration"],
+        "Chapter 5: Acellular Life": ["Viruses and their Cycles"],
+        "Chapter 6: Prokaryotes": ["Kingdom Monera (Bacteria)"],
+        "Chapter 7: Protists and Fungi": ["Kingdom Protista", "Kingdom Fungi"],
+        "Chapter 8: Plant Diversity": ["Bryophyta and Tracheophyta"],
+        "Chapter 9: Animal Diversity": ["Invertebrates and Chordates"],
+        "Chapter 10: Plant Form and Functions": ["Nutrition, Transport, and Support in Plants"],
+        "Chapter 11: Digestion": ["Human Digestive System"],
+        "Chapter 12: Circulation": ["Human Circulatory and Lymphatic Systems"],
+        "Chapter 13: Immunity": ["Lines of Defence"],
+        "Chapter 14: Respiration": ["Human Respiratory System"]
+      },
+      "Computer Science": {
+        "Chapter 1: Fundamentals of Computer": ["History and Components of Computers"],
+        "Chapter 2: Information Networks": ["Network Topologies and The Internet"],
+        "Chapter 3: Data Communication": ["Transmission Media and Devices"],
+        "Chapter 4: Application and Uses of Computer": ["CAL, CAD, E-commerce"],
+        "Chapter 5: Computer Architecture": ["CPU and Memory"],
+        "Chapter 6: Security and Law": ["Viruses and Copyright"],
+        "Chapter 7: Windows OS": ["Windows and DOS Basics"],
+        "Chapter 8: Word Processing": ["MS-Word Features"],
+        "Chapter 9: Spreadsheet Software": ["MS-Excel Formulas and Charts"],
+        "Chapter 10: Internet Fundamentals": ["Browsers, Search Engines, E-mail"]
+      },
+      "Mathematics": {
+        "Unit 1: Number Systems": ["Real and Complex Numbers"],
+        "Unit 2: Sets, Functions and Groups": ["Set Theory", "Functions", "Group Theory"],
+        "Unit 3: Matrices and Determinants": ["Matrices and Systems of Linear Equations"],
+        "Unit 4: Quadratic Equations": ["Solving Quadratic Equations", "Roots of Unity"],
+        "Unit 5: Partial Fractions": ["Resolution of Fractions"],
+        "Unit 6: Sequences and Series": ["AP, GP, HP"],
+        "Unit 7: Permutation, Combination and Probability": ["Counting Principles and Probability"],
+        "Unit 8: Mathematical Induction and Binomial Theorem": ["Induction and Binomial Expansion"],
+        "Unit 9: Fundamentals of Trigonometry": ["Trigonometric Ratios and Identities"],
+        "Unit 10: Trigonometric Identities": ["Angle Formulas"],
+        "Unit 11: Trigonometric Functions and their Graphs": ["Graphing Trigonometric Functions"],
+        "Unit 12: Application of Trigonometry": ["Solving Triangles"],
+        "Unit 13: Inverse Trigonometric Functions": ["Inverse Functions"],
+        "Unit 14: Solutions of Trigonometric Equations": ["Solving Trig Equations"]
+      }
+    },
+    "12th Grade": {
+      "Physics": {
+        "Chapter 12: Electrostatics": ["Coulomb's Law", "Gauss's Law", "Electric Potential", "Capacitors"],
+        "Chapter 13: Current Electricity": ["Ohm's Law", "Kirchhoff's Rules", "Potentiometer"],
+        "Chapter 14: Electromagnetism": ["Magnetic Field and Ampere's Law", "Force on Charge and Conductor", "C.R.O."],
+        "Chapter 15: Electromagnetic Induction": ["Faraday's and Lenz's Law", "Generators and Motors", "Transformers"],
+        "Chapter 16: Alternating Current": ["AC Circuits", "Resonance", "Three Phase AC"],
+        "Chapter 17: Physics of Solids": ["Properties of Solids", "Superconductors"],
+        "Chapter 18: Electronics": ["Rectification", "Transistors", "Operational Amplifiers"],
+        "Chapter 19: Dawn of Modern Physics": ["Black Body Radiation", "Photoelectric and Compton Effect", "Wave-Particle Duality"],
+        "Chapter 20: Atomic Spectra": ["Bohr's Model", "X-rays", "Lasers"],
+        "Chapter 21: Nuclear Physics": ["The Nucleus", "Radioactivity", "Nuclear Fission and Fusion"]
+      },
+      "Chemistry": {
+        "Chapter 1: Periodicity": ["Modern Periodic Table", "Periodicity of Properties"],
+        "Chapter 2: s-Block Elements": ["Alkali and Alkaline Earth Metals"],
+        "Chapter 3: Group IIIA and IVA Elements": ["Boron and Carbon Families"],
+        "Chapter 4: Group VA and VIA Elements": ["Nitrogen and Oxygen Families"],
+        "Chapter 5: Halogens and Noble Gases": ["Properties of Halogens and Noble Gases"],
+        "Chapter 6: Transition Elements": ["Characteristics and Complex Compounds"],
+        "Chapter 7: Organic Chemistry Fundamentals": ["Isomerism", "Functional Groups"],
+        "Chapter 8: Aliphatic Hydrocarbons": ["Alkanes, Alkenes, Alkynes"],
+        "Chapter 9: Aromatic Hydrocarbons": ["Benzene Structure and Reactions"],
+        "Chapter 10: Alkyl Halides": ["Reactions and Grignard's Reagent"],
+        "Chapter 11: Alcohols, Phenols and Ethers": ["Properties and Reactions"],
+        "Chapter 12: Aldehydes and Ketones": ["Preparation and Reactions"],
+        "Chapter 13: Carboxylic Acids": ["Properties and Reactions"],
+        "Chapter 14: Macromolecules": ["Polymers, Proteins, Enzymes, Nucleic Acids"],
+        "Chapter 15: Chemical Industries": ["Fertilizer, Cement, Paper"],
+        "Chapter 16: Environmental Chemistry": ["Pollution and Green Chemistry"]
+      },
+      "Biology": {
+        "Chapter 15: Homeostasis": ["Osmoregulation and Excretion"],
+        "Chapter 16: Support and Movement": ["Skeletons and Muscles"],
+        "Chapter 17: Coordination and Control": ["Nervous and Chemical Coordination"],
+        "Chapter 18: Reproduction": ["Asexual and Sexual Reproduction"],
+        "Chapter 19: Growth and Development": ["Growth in Plants and Animals"],
+        "Chapter 20: Chromosomes and DNA": ["DNA Structure and Replication", "Gene Expression"],
+        "Chapter 21: Cell Cycle": ["Mitosis and Meiosis"],
+        "Chapter 22: Variation and Genetics": ["Mendel's Laws", "Gene Linkage"],
+        "Chapter 23: Biotechnology": ["Gene Cloning and PCR", "Gene Therapy"],
+        "Chapter 24: Evolution": ["Theories and Evidence of Evolution"],
+        "Chapter 25: Ecosystem": ["Biogeochemical Cycles"],
+        "Chapter 26: Major Ecosystems": ["Terrestrial and Aquatic Ecosystems"],
+        "Chapter 27: Man and his Environment": ["Resources and Conservation"]
+      },
+      "Computer Science": {
+        "Chapter 1-3: Database Fundamentals": ["Database Concepts", "ERD Modeling", "Keys"],
+        "Chapter 4: Normalization": ["1NF, 2NF, 3NF"],
+        "Chapter 5-7: MS Access": ["Tables, Queries, Forms, and Reports"],
+        "Chapter 8-9: C++ Basics": ["Structure of a Program", "Data Types and Operators"],
+        "Chapter 10: Input/Output in C++": ["cout and cin"],
+        "Chapter 11: Decision Constructs in C++": ["if-else and switch"],
+        "Chapter 12: Loop Constructs in C++": ["for, while, do-while"],
+        "Chapter 13: Functions in C++": ["User-defined Functions"],
+        "Chapter 14: File Handling in C++": ["Reading and Writing Files"]
+      },
+      "Mathematics": {
+        "Unit 1: Functions and Limits": ["Functions, Limits, and Continuity"],
+        "Unit 2: Differentiation": ["Derivatives and their Applications"],
+        "Unit 3: Integration": ["Integration Techniques and Applications"],
+        "Unit 4: Analytic Geometry": ["The Straight Line"],
+        "Unit 5: Linear Programming": ["Linear Inequalities and Programming"],
+        "Unit 6: Conic Sections": ["Circle, Parabola, Ellipse, Hyperbola"],
+        "Unit 7: Vectors": ["Vector Algebra and Products"]
+      }
+    }
+  }
+}

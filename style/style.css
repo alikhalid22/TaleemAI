@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Jameel+Noori+Nastaleeq&display=swap');
+
+.urdu-font {
+    font-family: 'Jameel Noori Nastaleeq', serif;
+    direction: rtl; /* This makes the text flow from right-to-left */
+    text-align: right;
+    font-size: 22px; /* A good size for readability */
+}
